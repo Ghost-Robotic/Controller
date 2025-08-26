@@ -90,3 +90,5 @@ BOM:
 * 1x veraboard https://www.jaycar.com.au/pc-boards-vero-type-strip-95-x-152mm/p/HP9542?srsltid=AfmBOoqQs_fIcNC6aYXQac2ZbTbnSsgYArLCiu_3CRI3g2MDDvFBJ_Ss
   
 * 1x solid core wire https://core-electronics.com.au/hook-up-wire-spool-black-25-ft.html
+  
+* 1x EYESPI breakout and cable https://www.adafruit.com/product/5613 https://www.adafruit.com/product/5239
