@@ -56,3 +56,5 @@ BOM:
 * https://www.digikey.com/en/products/detail/adafruit-industries-llc/358/5801368?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlj6J1-CXjMvB2poJDP6vXZk8&gclid=Cj0KCQjwtMHEBhC-ARIsABua5iSUqiseLrZ0jIoWnQQAKtPOi3Fta5P42dNPiDKyF84q20x1jw7Lat0aAqg6EALw_wcB
 
 * analog/digital breakout https://www.sparkfun.com/sparkfun-analog-digital-mux-breakout-cd74hc4067.html or https://www.adafruit.com/product/5836?srsltid=AfmBOopbR_FtnUanDIy2z5l5viOq5bFq5tQ5RCXxs68W7XwBSWc96bWj
+
+* Power button https://www.aliexpress.com/item/1005006090350341.html?
