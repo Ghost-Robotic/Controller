@@ -70,6 +70,9 @@ Added the holes to connect the two halves of the controller together. Added cham
 <img width="1079" height="636" alt="image" src="https://github.com/user-attachments/assets/d905b943-5b3f-4575-b0a9-6fefd91ea1d7" />
 <img width="1111" height="495" alt="image" src="https://github.com/user-attachments/assets/e1606b45-21aa-4dc3-bf8b-2facff346f2c" />
 
+<img width="388" height="165" alt="image" src="https://github.com/user-attachments/assets/c6ac1110-9aca-4981-a38f-3d92f09681e2" />
+with auto supports will prob be less with manual support
+
 **Total time spent: 2hr**
 
 BOM:
