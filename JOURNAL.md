@@ -65,8 +65,12 @@ Continued creating the mounting for the electronics such as finalising the mount
 **Total time spent: 2hr**
 
 # August 27th: Finalising Design
-Added the holes to connect the two halves of the controller together. Added chamfers on the various mounting posts to help ensure they do not snap off as well as chamfers on the holes to aid in getting screws into the part.
+Added the holes to connect the two halves of the controller together. Added chamfers on the various mounting posts to help ensure they do not snap off as well as chamfers on the holes to aid in getting screws into the part. I searched for a bit to find a LiPo battery charger that I could add to the pico so that i can charge the LiPo without removing it from the case. I did some calculations to determine that if the pico w drew around 100mA, a 200mah LiPo battery should be able to power it for 2hr however without knowing the current draw of thhe other periphals this would likely be less.
 
+<img width="1079" height="636" alt="image" src="https://github.com/user-attachments/assets/d905b943-5b3f-4575-b0a9-6fefd91ea1d7" />
+<img width="1111" height="495" alt="image" src="https://github.com/user-attachments/assets/e1606b45-21aa-4dc3-bf8b-2facff346f2c" />
+
+**Total time spent: 2hr**
 
 BOM:
 
@@ -94,8 +98,8 @@ BOM:
   
 * 1x solid core wire https://core-electronics.com.au/hook-up-wire-spool-black-25-ft.html
   
-* 1x EYESPI breakout and cable https://www.adafruit.com/product/5613 https://www.adafruit.com/product/5239
+* 1x EYESPI breakout and cable for  1.8screen https://www.adafruit.com/product/5613 https://www.adafruit.com/product/5239
 
-* 1x LiPo battery https://core-electronics.com.au/polymer-lithium-ion-battery-1000mah-38458.html
+* 1x LiPo battery https://www.auselectronicsdirect.com.au/rechargeable-li-po-battery-3.7v-200mah-for-nh010-t
 
-* 1x LiPo battery charger https://core-electronics.com.au/makerverse-usb-c-lipo-charger.html
+* 1x LiPo battery charger https://core-electronics.com.au/pimoroni-lipo-shim-for-pico.html
