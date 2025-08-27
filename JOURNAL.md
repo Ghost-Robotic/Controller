@@ -64,6 +64,9 @@ Continued creating the mounting for the electronics such as finalising the mount
 
 **Total time spent: 2hr**
 
+# August 27th: Finalising Design
+Added the holes to connect the two halves of the controller together. Added chamfers on the various mounting posts to help ensure they do not snap off as well as chamfers on the holes to aid in getting screws into the part.
+
 
 BOM:
 
@@ -92,3 +95,7 @@ BOM:
 * 1x solid core wire https://core-electronics.com.au/hook-up-wire-spool-black-25-ft.html
   
 * 1x EYESPI breakout and cable https://www.adafruit.com/product/5613 https://www.adafruit.com/product/5239
+
+* 1x LiPo battery https://core-electronics.com.au/polymer-lithium-ion-battery-1000mah-38458.html
+
+* 1x LiPo battery charger https://core-electronics.com.au/makerverse-usb-c-lipo-charger.html
