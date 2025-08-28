@@ -77,6 +77,8 @@ with auto supports will prob be less with manual support
 
 BOM:
 
+1x Rasberry Pi Pico W
+
 * 2x Joystick https://www.amazon.com/HiLetgo-Controller-JoyStick-Breakout-Arduino/dp/B00P7QBGD2/ref=sr_1_1_sspa?crid=KYT8WOXR70KB&dib=eyJ2IjoiMSJ9.u3HQgtLAVkNqZIGo3SvKEA7RskrJilcONKhjTH6egbTEWsr7WmupRZueitZ0x5hb7Cb4Yzew3gl9MiQhRmm7nOaB5gvGEq_MVG3k2icl3Oh-C00FafB827dkG6ojczR_bHUl-RXigeR6rSJXhj7r9eQCIMyzqlzdLEC3AkdGUIn3BtYUesnvFV6Urj0GIB6SpwnTdvdlM-ZATm4RWD2DLwYgTgtgBzqP1BDzUuNp46M.t2rhjNqCVw5MOI6deHCI6IE1kL_NqTWg6scY0_GoipE&dib_tag=se&keywords=Joystick+module&qid=1753994354&sprefix=joystick+modu%2Caps%2C132&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
 
 * 1x accelerometer https://www.amazon.com/HUAREW-MPU6050-Gyroscope-Accelerometer-Converter/dp/B0CRVR1P66/ref=sr_1_2_sspa?crid=CTOWJJKNW0L8&dib=eyJ2IjoiMSJ9._zRQIjLy8SJUb458TCsORc8ZhQjoyMgCOrU-agTTG_xrWYf4yKToVOe1l5yPHYQoS5tOqvsrEvDqiKAprtgPPJkV5b9dVLMxRw60lF3AQI-Q0Q3o8onIPsuC50Qo169MJO-V5KFh1VldFRw-SVZIk2nGnhvKKk6kCAl3AV6bSGOpw-0wfF7z7TMeQWQ2wyaYbBsgIh67fdMxgyBsoXbyf5YrhsPYKgN157Dh1TaiO0k.JxQlPk08Al-afuWwE5dMTx2sxM8SSHjSp5Ln7J6WHZ4&dib_tag=se&keywords=MPU6050&qid=1754065568&sprefix=mpu6050%2Caps%2C111&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
