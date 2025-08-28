@@ -8,3 +8,6 @@ With two joysticks, buttons, accelerometer and pots, this controller is able to 
 However, what if you want to play some games? There is planned support for intergrating simple games into the controller that can be displayed on the screen and use the large variety of control methods available. For example playing the dino game using the accelerometer by physically jumping. 
 
 The overall goal for the controller is to be modular with support for a variety of functions and can be quickly adapted for different applications.
+
+## CAD
+https://cad.onshape.com/documents/7b6b5bf345c0989f6e254701/w/9353e7d330a39dfe5d969377/e/e7967eaf3d01a9f44c40f175
